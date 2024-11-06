@@ -1,4 +1,5 @@
 # AUTHORS
 
 
-* Alejandro Jurado Murillo
+* Alejandro Jurado Murillo <ajurmur564@g.educaand.es>
+* John Doe
